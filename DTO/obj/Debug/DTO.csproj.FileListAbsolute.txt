@@ -1,0 +1,17 @@
+D:\ĐỒ ÁN LTQL\QLQA\DTO\bin\Debug\DTO.dll
+D:\ĐỒ ÁN LTQL\QLQA\DTO\bin\Debug\DTO.pdb
+D:\ĐỒ ÁN LTQL\QLQA\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\ĐỒ ÁN LTQL\QLQA\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN LTQL\QLQA\DTO\obj\Debug\DTO.dll
+D:\ĐỒ ÁN LTQL\QLQA\DTO\obj\Debug\DTO.pdb
+D:\ĐỒ ÁN LTQL\QLQA\DTO\bin\Debug\BCrypt.Net-Next.dll
+D:\ĐỒ ÁN LTQL\QLQA\DTO\bin\Debug\System.Buffers.dll
+D:\ĐỒ ÁN LTQL\QLQA\DTO\bin\Debug\System.Memory.dll
+D:\ĐỒ ÁN LTQL\QLQA\DTO\bin\Debug\System.Numerics.Vectors.dll
+D:\ĐỒ ÁN LTQL\QLQA\DTO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ĐỒ ÁN LTQL\QLQA\DTO\bin\Debug\BCrypt.Net-Next.xml
+D:\ĐỒ ÁN LTQL\QLQA\DTO\bin\Debug\System.Buffers.xml
+D:\ĐỒ ÁN LTQL\QLQA\DTO\bin\Debug\System.Memory.xml
+D:\ĐỒ ÁN LTQL\QLQA\DTO\bin\Debug\System.Numerics.Vectors.xml
+D:\ĐỒ ÁN LTQL\QLQA\DTO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ĐỒ ÁN LTQL\QLQA\DTO\obj\Debug\DTO.csproj.Up2Date
